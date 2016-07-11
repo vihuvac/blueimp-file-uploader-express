@@ -1,0 +1,46 @@
+{
+    "name": "blueimp-file-uploader-express",
+    "version": "0.0.0",
+    "description": "This is a File Uploader for Node.js, the project is based on Blueimp jQuery File Upload developed by Sebastian Tschan.",
+    "main": "index.js",
+    "scripts": {
+        "test": "jasmine-node specs/"
+    },
+    "dependencies": {
+        "async": "^1.5.2",
+        "aws-sdk": "^2.4.6",
+        "formidable": "^1.0.17",
+        "lwip": "0.0.8",
+        "node-fs": "^0.1.7"
+    },
+    "devDependencies": {
+        "gulp": "^3.9.1",
+        "gulp-jshint": "^2.0.1",
+        "jshint": "^2.9.2",
+        "jasmine-node": "^1.14.5",
+        "jshint-stylish": "^2.2.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vihuvac/blueimp-file-uploader-express.git"
+    },
+    "keywords": [
+        "blueimp",
+        "expressjs",
+        "file",
+        "jQuery",
+        "node.js",
+        "upload"
+    ],
+    "author": {
+        "name": "Victor Hugo Valle Castillo",
+        "email": "victouk@gmail.com",
+        "url": "https://vihuvac.com"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/vihuvac/blueimp-file-uploader-express.git/issues"
+    },
+    "homepage": "https://github.com/vihuvac/blueimp-file-uploader-express",
+    "readmeFilename": "README.md"
+}
