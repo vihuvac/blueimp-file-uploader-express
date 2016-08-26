@@ -1,6 +1,6 @@
 {
     "name": "blueimp-file-uploader-express",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "This is a File Uploader for Node.js, the project is based on Blueimp jQuery File Upload developed by Sebastian Tschan.",
     "main": "index.js",
     "scripts": {
